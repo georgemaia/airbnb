@@ -22,6 +22,14 @@ Explore sua criatividade :) - não esperamos uma tela cópia do Airbnb, ok? Mas 
 Lembre-se de trocar ideias, processos e resultados com outras pessoas participantes do programa.
 A atividade é individual, mas aproveite as maravilhas de ter um grupo para enriquecer seu conhecimento e entregas <3
 
-Link Github: 
+Link Github: [https://github.com/georgemaia/airbnb](https://github.com/georgemaia/airbnb)
 
 Link Página: 
+
+---
+
+## Referências
+
+[https://github.com/anawd/quartosdoairbnb](https://github.com/anawd/quartosdoairbnb)
+
+[https://github.com/BrunoSaibert/layout_airbnb](https://github.com/BrunoSaibert/layout_airbnb)
