@@ -57,19 +57,3 @@ Link Página:
 [JSON Bin](https://jsonbin.io/)
 
 [Paginação simples com javascript](https://braziljs.org/artigos/criando-um-sistema-de-paginacao-simples-com-javascript/)
-
----
-
-Para colocar latitude e longitude na api: utilizei o sheety [¹], então o que fiz foi copiar a api original para uma planilha do google sheet [²] e então adicionei as colunas de latitude e longitude. Como foram poucas, fiz isso na mão, fui ao google maps e peguei geolocalizações aleatórias e não muito distantes.
-
-Para os mapas: no mapa principal, utilizei o autocomplete [³] que dá opções de localidade de acordo com o input que você coloca no campo Localização da minha busca. Ao buscar, ele procura as localizações [4] por perto e olha cada latitude/longitude dos dados para checar [5] se ela está a uma distância de 1,5km de acordo com a localidade que eu busquei no mapa, com isso eu adiciono marcações ao mapa [6] e informações do quarto para cada marcação [7]. No mapa do modal, eu apenas crio um mapa normal para cada modal e adiciono uma marcação.
-
-
-Referências:
-[1]: https://sheety.co/
-[2]: https://help.databox.com/article/393-how-to-import-json-data-to-a-google-sheet
-[3]: https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete
-[4]: https://developers.google.com/maps/documentation/javascript/reference/geocoder
-[5]: https://developers.google.com/maps/documentation/javascript/reference/geometry
-[6]: https://developers.google.com/maps/documentation/javascript/markers?hl=pt-br
-[7]: https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple
