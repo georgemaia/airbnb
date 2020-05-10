@@ -24,7 +24,7 @@ A atividade é individual, mas aproveite as maravilhas de ter um grupo para enri
 
 Link Github: [https://github.com/georgemaia/airbnb](https://github.com/georgemaia/airbnb)
 
-Link Página: 
+Link Página: [https://airbnbfront.netlify.app/](https://airbnbfront.netlify.app/)
 
 ---
 
